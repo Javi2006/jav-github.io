@@ -2,26 +2,29 @@
 
 ---
 
-### Category Name 1 
+### Creative Works
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Galaxy Cat](/sample_page)
+<img src="images/galaxy.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ripped Effect](/pdf/sample_presentation.pdf)
+<img src="images/nd05tk0tpwc01.png?raw=true"/>
+
+---
+[Double Exposure](http://example.com/)
+<img src="images/1573252284867.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Creative Works 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Earth Day](http://example.com/)
+- <img src="images/Earf.jpg?raw=true"/>
+- [Cool Retro Collage](http://example.com/)
+- <img src="images/cover1.jpg?raw=true"/>
+- [3D Pop Out Effect](http://example.com/)
+- <img src="images/np_file_125172.jpg?raw=true"/>
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
